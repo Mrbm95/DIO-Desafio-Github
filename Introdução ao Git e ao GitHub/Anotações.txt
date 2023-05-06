@@ -1,0 +1,25 @@
+ Aqui estão alguns dos comandos mais comuns usados no Git:
+
+git init: Inicializa um novo repositório Git em um diretório vazio.
+git clone: Cria uma cópia de um repositório Git existente em um novo diretório local.
+git add: Adiciona arquivos ao índice Git, preparando-os para um commit.
+git commit: Cria um novo commit com as alterações realizadas no repositório.
+git status: Mostra o status atual do repositório, incluindo arquivos modificados e arquivos preparados para commit.
+git log: Mostra um histórico detalhado de commits no repositório.
+git branch: Lista as branches no repositório e cria novas branches.
+git merge: Combina duas ou mais branches do repositório em uma única branch.
+git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+git push: Envia as alterações locais para o repositório remoto.
+
+ Aqui estão alguns comandos básicos para usar no Git Bash:
+
+ls: Lista os arquivos e diretórios no diretório atual.
+cd: Navega para um diretório específico.
+mkdir: Cria um novo diretório.
+touch: Cria um novo arquivo.
+rm: Remove um arquivo ou diretório.
+cp: Copia um arquivo de um diretório para outro.
+mv: Move um arquivo de um diretório para outro.
+cat: Mostra o conteúdo de um arquivo.
+echo: Imprime uma mensagem na tela ou em um arquivo.
+git: Executa comandos Git para gerenciar repositórios Git.
